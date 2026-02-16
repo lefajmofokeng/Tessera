@@ -2,9 +2,11 @@
 
 A sophisticated, responsive three-panel showcase component that combines text, image, and video content in perfect harmony. Built with modern web standards and designed for seamless integration into any digital portfolio or agency website.
 
+<img width="1920" height="877" alt="tessera" src="https://github.com/user-attachments/assets/3becf660-d044-4b24-b086-80b6c485d850" />
+
 ## Live Preview
 
-**[View Live Demo](https://thisislefa.github.io/Tessera/)** | **[GitHub Repository](https://github.com/thisislefa/Tessera)**
+**[View Live Demo](https://lefajmofokeng.github.io/Tessera/)** | **[GitHub Repository](https://github.com/thisislefa/Tessera)**
 
 ## Project Overview
 
